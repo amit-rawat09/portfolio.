@@ -1,6 +1,6 @@
 import React from 'react'
 import paste from '../assets/paste1.jpg'
-import youtube from '../assets/youtube_logo.png'
+import youtube from '../assets/Youtube_logo.png'
 import chat from '../assets/chat.png'
 import yum from '../assets/yum.png'
 
