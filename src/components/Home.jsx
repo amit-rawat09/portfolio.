@@ -37,9 +37,6 @@ function Home() {
               interest in full-stack development, with a focus on delivering user-friendly applications. Looking for an
               opportunity to contribute and grow in a collaborative environment.</p>
             <br />
-            <div className="">
-              <button className='bg-blue-400 hover:bg-blue-500 duration-150'><a href="">View Resume</a></button>
-            </div>
             {/* social media items */}
             <div className="flex justify-between md:flex-row flex-col items-center gap-6">
               <div className="flex flex-col gap-2">
