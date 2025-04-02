@@ -30,8 +30,8 @@ function Portfolio() {
             logo: yum,
             Description: "  : Developed a food Delivery web application",
             Technologies: [" : React js ,", " Tailwind CSS ,", " Node js ,"," MongoDB ,"," Express js "],
-            visit:"",
-            sourcecode:""
+            visit:"https://yum-express.vercel.app/",
+            sourcecode:"https://github.com/amit-rawat09/food-frontend"
         },
         {
             id: "4",
