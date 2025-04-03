@@ -21,7 +21,7 @@ function Portfolio() {
             logo: chat,
             Description: "  : Developed a real time chat application",
             Technologies: [" : React js ,", " Tailwind CSS ,", " Node js ,"," Socket.io "],
-            visit:"https://ichats.vercel.app/",
+            visit:"https://ichaat.vercel.app/",
             sourcecode:"https://github.com/amit-rawat09/ichat_frontend"
         },
         {
